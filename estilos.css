@@ -1,0 +1,35 @@
+body{ background: aqua;}
+header{
+    background-color: white
+}
+header>ul>li{
+    display: inline-block;
+}
+header>ul>li>a{
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+h3{
+    color: blue;
+}
+#bloque-derecho{
+    color: brown;
+}
+.lista-curio{
+    color: chartreuse;
+}
+.principal{
+    display: inline-block;
+}
+footer{
+    position: absolute;
+}
+/*
+#bloque-izquierdo{
+    width: 50%;
+}
+#bloque-derecho{
+    width: 75%;
+}
+*/
